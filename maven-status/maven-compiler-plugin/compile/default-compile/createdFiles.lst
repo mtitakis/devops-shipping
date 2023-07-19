@@ -1,0 +1,4 @@
+uy/edu/ort/devops/shippingserviceexample/ShippingServiceExampleApplication.class
+uy/edu/ort/devops/shippingserviceexample/domain/Shipping.class
+uy/edu/ort/devops/shippingserviceexample/endpoints/ShippingEndpoint.class
+uy/edu/ort/devops/shippingserviceexample/logic/ShippingLogic.class

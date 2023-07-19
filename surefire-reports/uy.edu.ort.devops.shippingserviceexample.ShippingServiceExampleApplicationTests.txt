@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: uy.edu.ort.devops.shippingserviceexample.ShippingServiceExampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.378 s - in uy.edu.ort.devops.shippingserviceexample.ShippingServiceExampleApplicationTests
